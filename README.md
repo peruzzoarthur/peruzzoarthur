@@ -6,7 +6,7 @@ I began my journey in software development approximately two years ago. Since th
 
 ### Technologies I Use
 
-- **Frontend:** TypeScript, React.js, @tanstack-router, @tanstack-query, Shadcn, Acerternity
+- **Frontend:** TypeScript, React.js, @tanstack-router, @tanstack-query, TailwindCSS, Shadcn.ui
 - **Backend:** Nest.js
 - **Database:** PostgreSQL
 - **Scripting:** Python (for data processing and GIS data analysis)
