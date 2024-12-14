@@ -14,7 +14,7 @@ I began my journey in software development approximately two years ago. Since th
 
 ### Current Focus
 
-Recently, I've been been building a React Web GIS front-end for map creating and viewing. Check the project **here**[https://cgis.up.railway.app/].
+Recently, I've been been building a React Web GIS front-end for map creating and viewing. Check the project [**here**][https://cgis.up.railway.app/].
 
 
 ## Portfolio Project
