@@ -24,6 +24,6 @@ My portfolio is now a fullstack application with a back-end for handling a serie
 
 - **Live Project:** [https://ozzurep.up.railway.app/](https://ozzurep.up.railway.app/)
 - **My CV:** [https://ozzurep.up.railway.app/cv](https://ozzurep.up.railway.app/cv)
-- **Posts:** [https://ozzurep.up.railway.app/cv](https://ozzurep.up.railway.app/publications)
+- **Posts:** [https://ozzurep.up.railway.app/publications](https://ozzurep.up.railway.app/publications)
 
 Feel free to explore my work and connect with me for collaboration opportunities!
