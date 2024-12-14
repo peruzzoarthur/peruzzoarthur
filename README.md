@@ -8,12 +8,13 @@ I began my journey in software development approximately two years ago. Since th
 
 - **Frontend:** TypeScript, React.js, @tanstack-router, @tanstack-query, TailwindCSS, Shadcn.ui
 - **Backend:** Nest.js
-- **Database:** PostgreSQL
-- **Scripting:** Python (for data processing and GIS data analysis)
+- **Database:** PostgreSQL and PostGIS
+- **Scripting:** Python (mostly for data processing and GIS data analysis)
+- **Cloud:** AWS Services and Terraform (IAC)
 
 ### Current Focus
 
-Recently, I've been diving into Python, applying scripts for processing and analyzing Geographic Information System (GIS) data. I'm building a fullstack application that aims to enables comprehensive data analysis, graphical plotting, and mapping.
+Recently, I've been been building a React Web GIS front-end for map creating and viewing. Check the project **here**[https://cgis.up.railway.app/].
 
 
 ## Portfolio Project
