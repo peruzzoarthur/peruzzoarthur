@@ -2,7 +2,7 @@
 
 Hello there 👋
 
-My name is Arthur, and I'm a former Environmental Engineer with an emphasis on data analysis and GIS technologies, currently transitioning into the field of software development.
+My name is Arthur, and I'm a former Environmental Engineer with an emphasis on data analysis and Geographic information system (GIS) technologies, currently transitioning into the field of software development.
 
 I began my journey in software development approximately two years ago. Since then, I've been working hard on building the skills needed to become a proficient fullstack web developer.
 
